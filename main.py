@@ -1,1 +1,1 @@
-obvrjv
+print("hello world")
